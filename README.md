@@ -1,5 +1,6 @@
 # Python Text Editor
 
+![demo](./demo.png)
 A small desktop text editor built with Python's standard `tkinter` library.
 
 ## Run
